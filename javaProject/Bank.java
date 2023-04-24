@@ -1,12 +1,6 @@
 import java.io.IOException;
 import java.util.*;
 
-class create{
-
-
-
-}
-
 
 public class Bank extends opMenu {
     Scanner s = new Scanner(System.in);
